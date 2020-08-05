@@ -1,8 +1,0 @@
-PerformanceAnalytics   2.0.4 
-TTR                    0.23-6
-curl                   4.3   
-packrat                0.5.0 
-quadprog               1.5-8 
-quantmod               0.4.17
-xts                    0.12-0
-zoo                    1.8-8 
