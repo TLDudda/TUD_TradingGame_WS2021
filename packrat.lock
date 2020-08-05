@@ -1,0 +1,48 @@
+PackratFormat: 1.4
+PackratVersion: 0.5.0
+RVersion: 4.0.2
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: PerformanceAnalytics
+Source: CRAN
+Version: 2.0.4
+Hash: cbc062943828ebdf5b5ad7446a2802d0
+Requires: quadprog, xts, zoo
+
+Package: TTR
+Source: CRAN
+Version: 0.23-6
+Hash: 5b65370ba88e7271d894934f861f57d8
+Requires: curl, xts, zoo
+
+Package: curl
+Source: CRAN
+Version: 4.3
+Hash: 3916ae5637dbaf5996dbde80ea92a047
+
+Package: packrat
+Source: CRAN
+Version: 0.5.0
+Hash: 498643e765d1442ba7b1160a1df3abf9
+
+Package: quadprog
+Source: CRAN
+Version: 1.5-8
+Hash: 2be0e6327ae246d71c0e19f510692dfc
+
+Package: quantmod
+Source: CRAN
+Version: 0.4.17
+Hash: 6aadbd45adc8116a95dc16ed3add2715
+Requires: TTR, curl, xts, zoo
+
+Package: xts
+Source: CRAN
+Version: 0.12-0
+Hash: 76d62c446276519363516ece8961a791
+Requires: zoo
+
+Package: zoo
+Source: CRAN
+Version: 1.8-8
+Hash: cc9534113f4513acb2f838ef8e2cd467
