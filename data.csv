@@ -4,12 +4,13 @@ ADS.DE;Adidas;100000;100000;100000;0
 ALV.DE;Allianz;0;0;100000;0
 BAS.DE;BASF;0;0;100000;0
 BAYN.DE;Bayer;0;0;100000;0
-BEI.DE;BMW;0;300000;100000;0
-BMW.DE;Beiersdorf;0;0;100000;0
+BEI.DE;Beiersdorf;0;300000;100000;0
+BMW.DE;BMW;0;0;100000;0
 CON.DE;Continental;0;0;100000;0
 DAI.DE;Daimler;0;300000;100000;0
 DB1.DE;Deutsche Boerse;0;0;100000;0
 DBK.DE;Deutsche Bank;900000;0;0;0
+DHER.DE;Delivery Hero;0;0;0;0
 DPW.DE;Deutsche Post;0;0;0;0
 DTE.DE;Deutsche Telekom;0;0;0;0
 DWNI.DE;Deutsche Wohnen;0;0;0;0
@@ -28,4 +29,3 @@ SAP.DE;SAP;0;0;0;1000000
 SIE.DE;Siemens;0;0;0;0
 VNA.DE;Vonovia;0;0;0;0
 VOW3.DE;Volkswagen;0;0;0;0
-DHER.DE;Delivery Hero;0;0;0;0
